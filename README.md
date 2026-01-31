@@ -1,8 +1,6 @@
-# florwachlin
-# florwachlin
 ¡Hola! Soy Florencia Wachlin 👋
 
-Ingeniería Industrial | Data Analyst | 
+Estudiante en Ingeniería Industrial | Data Analyst | 
 
 🚀 Sobre mí
 Me apasiona la intersección entre la Ingeniería Industrial y el análisis de datos, donde puedo combinar la mejora continua de procesos con la toma de decisiones basada en información.

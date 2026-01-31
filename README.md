@@ -32,13 +32,8 @@ Actualmente trabajo con herramientas como **SQL**, **Python** y **Power BI** par
 
 ---
 
-## 📈 Estadísticas de GitHub  
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
----
-
 ## 📬 Contacto  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/florencia-wachlin-719574303)  
 - ✉️ **Email:** florwachlin@gmail.com  
+- 📚 [LinkedIn](https://www.linkedin.com/in/florencia-wachlin-719574303)  
+

@@ -18,7 +18,7 @@ Actualmente trabajo con herramientas como **SQL**, **Python** y **Power BI** par
 
 - 🎓 Estudiante de **5to año de Ingeniería Industrial** en la **UNLP**  
 - 📊 Conocimientos en **Python, SQL, Power BI y Excel avanzado**  
-- 💻 Aprendiendo nuevas herramientas y mejorando mi flujo de trabajo con **Git y GitHub**
+- 💻 Interés constante en nuevas tecnologías y en optimizar mi flujo de trabajo con **Git y GitHub**
 
 ---
 
